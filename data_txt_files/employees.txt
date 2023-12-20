@@ -1,0 +1,5 @@
+Name      ID  YOB      Monthly Salary  Missed work
+Layla     1   2000     3000            20 
+Xavier    2   1997     10000           25 
+Anjie     3   1960     80000           5  
+Darren    4   1995     4000            12 
